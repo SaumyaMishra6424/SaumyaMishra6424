@@ -41,7 +41,9 @@
 - AI-powered insights for spending analysis
 - Real-time expense tracking & visual charts  
 
-🔗 Repo:  
+🔗 Repo: https://github.com/SaumyaMishra6424/AI-Powered-Personal-Finance-Tracker
+## 🌐 Live Demo
+👉 **https://ai-powered-personal-finance-tracker-gules.vercel.app?_vercel_share=BldSCid3E47HPk19Jc0Q9uulyMyZFUkS**
 🛠 Tech: React, Tailwind, Firebase, Cohere API, Recharts  
 
 
@@ -51,7 +53,7 @@
 - Background trailer playback
 - OMDb + Cohere API integration  
 
-🔗 Repo:  
+🔗 Repo:  https://github.com/SaumyaMishra6424/Netflixgpt
 🛠 Tech: React, Redux, Firebase  
 
 
@@ -61,7 +63,7 @@
 - Search & cart functionality
 - Fully responsive design  
 
-🔗 Repo: 
+🔗 Repo: https://github.com/SaumyaMishra6424/FineDineExpress/tree/main
 🛠 Tech: React, JavaScript  
 
 
@@ -70,7 +72,7 @@
 - ML model to classify fake vs real news
 - Used multiple classifiers for comparison  
 
-🔗 Repo: 
+🔗 Repo: https://github.com/SaumyaMishra6424/FakeNewsDetectionProject
 🛠 Tech: Python, ML  
 
 
