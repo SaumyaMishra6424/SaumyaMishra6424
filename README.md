@@ -68,7 +68,7 @@ Git • GitHub • VS Code • Figma • Google Colab
 - Animated UI + favorites system  
 
 🔗 [Repository](https://github.com/SaumyaMishra6424/Pokedox-Lite)  
-🌐 [Live Demo](https://pokedox-lite-4coitq1g7-saumya-mishras-projects-79140157.vercel.app)  
+🌐 [Live Demo](https://pokedox-lite-phi.vercel.app?_vercel_share=SIr9VWfZnAOnKILup0YAt79soJyvjLAJ)  
 🛠 React • Tailwind • Firebase • Framer Motion  
 
 ---
