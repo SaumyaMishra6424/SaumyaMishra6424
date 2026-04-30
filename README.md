@@ -110,4 +110,4 @@ Git • GitHub • VS Code • Figma • Google Colab
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+
