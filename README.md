@@ -58,6 +58,7 @@ Git • GitHub • VS Code • Figma • Google Colab
 - OMDb + Cohere API integration  
 
 🔗 [Repository](https://github.com/SaumyaMishra6424/Netflixgpt)  
+🌐 [Live Demo](https://netflix-k0p7m2m5g-saumya-mishras-projects-79140157.vercel.app?_vercel_share=cF5WnazjvKqXfYiAfHQmpNLnDNbGRH1v)  
 🛠 React • Redux • Firebase  
 
 ---
